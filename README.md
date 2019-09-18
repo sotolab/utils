@@ -17,4 +17,9 @@ https://notepad-plus-plus.org/repository/7.x/7.7.1/npp.7.7.1.Installer.exe
 003 ATOM
 https://atom.io/download/windows_x64
 
+004 MongoDB
+https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2012plus-4.2.0-signed.msi
+
+https://www.mongodb.com/download-center/community
+
 
