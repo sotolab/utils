@@ -27,6 +27,8 @@ https://install.advancedrestclient.com/install
 
 006 window cmd node.js
 
+Install Chocolatey via https://chocolatey.org/
+
      $ choco install nodejs.install –y
      
      $ choco install git –y
