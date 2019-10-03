@@ -26,6 +26,7 @@ https://www.mongodb.com/download-center/community
 https://install.advancedrestclient.com/install
 
 006 window cmd node.js
+
      $ choco install nodejs.install –y
      
      $ choco install git –y
