@@ -27,8 +27,11 @@ https://install.advancedrestclient.com/install
 
 006 window cmd node.js
      $ choco install nodejs.install –y
+     
      $ choco install git –y
+     
      $ choco install VisualStudioCode -y  
+     
 
 
 
