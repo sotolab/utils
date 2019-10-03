@@ -22,4 +22,6 @@ https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2012plus-4.2.0-signed.msi
 
 https://www.mongodb.com/download-center/community
 
+005 arc-electron
+https://install.advancedrestclient.com/install
 
