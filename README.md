@@ -42,5 +42,4 @@ https://backend.cesanta.com/cgi-bin/api.cgi?act=dl&os=win
 
 https://cesanta.com/binary.html
 
-
-
+http://localhost/__mg_admin
