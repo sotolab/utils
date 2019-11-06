@@ -36,5 +36,11 @@ Install Chocolatey via https://chocolatey.org/
      $ choco install VisualStudioCode -y  
      
 
+007 Mongoose  몽구스 웹 서버
+
+https://backend.cesanta.com/cgi-bin/api.cgi?act=dl&os=win
+
+https://cesanta.com/binary.html
+
 
 
